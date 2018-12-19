@@ -1,3 +1,3 @@
 # Hello VuePress
 
-## More and Mooore
+## More
