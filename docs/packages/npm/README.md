@@ -1,5 +1,5 @@
 ---
-title: npm
+title: NPM
 ---
 
 # NPM пакеты

@@ -16,12 +16,20 @@ module.exports = {
                 ]
             },
             {
-                title: 'API Guide',
+                title: 'Знания',
                 collapsable: false, 
                 children: [
                     '/guide/metatags',
                     '/guide/html',
                     '/guide/bugs'
+                ]
+            },
+            {
+                title: 'Инструменты', 
+                collapsable: false,
+                children: [
+                    '/tools/npm/',
+                    '/tools/redactors/'
                 ]
             },
             {
