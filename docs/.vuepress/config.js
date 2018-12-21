@@ -19,6 +19,7 @@ module.exports = {
                 title: 'API Guide',
                 collapsable: false, 
                 children: [
+                    '/guide/metatags',
                     '/guide/html',
                     '/guide/bugs'
                 ]
