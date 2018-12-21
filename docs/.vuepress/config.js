@@ -32,6 +32,13 @@ module.exports = {
                     '/gulp/directory-structure',
                     '/gulp/plugins'
                 ]
+            },
+            { 
+                title: 'Packages', 
+                collapsable: false,
+                children: [
+                    '/packages/npm/' 
+                ]
             }
         ]
     }
