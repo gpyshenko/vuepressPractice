@@ -19,8 +19,18 @@ module.exports = {
                 title: 'API Guide',
                 collapsable: false, 
                 children: [
-                    '/guide/guide',
-                    '/guide/api'
+                    '/guide/html',
+                    '/guide/bugs'
+                ]
+            },
+            {
+                title: 'Gulp',
+                collapsable: false,
+                children: [
+                    '/gulp/installation',
+                    '/gulp/usage',
+                    '/gulp/directory-structure',
+                    '/gulp/plugins'
                 ]
             }
         ]
