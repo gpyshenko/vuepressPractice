@@ -53,6 +53,10 @@ title: Библиотеки на чистом JS
 - [vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 - [Displaceable.js](https://subtlebits.com/projects/displaceable/)
 
+## Скролл
+- [Waypoints](http://imakewebthings.com/waypoints/)
+- [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+
 ## Календари
 - [flatpickr](https://github.com/flatpickr/flatpickr)
 - [Pikaday](https://github.com/Pikaday/Pikaday)
@@ -94,3 +98,25 @@ title: Библиотеки на чистом JS
 ## Autocomplete
 - [auto-complete](https://goodies.pixabay.com/javascript/auto-complete/demo.html)
 - [Awesomplete](http://leaverou.github.io/awesomplete/)
+
+## Таймеры
+- [FlipDown.js](https://pbutcher.uk/flipdown/)
+- [EasyTimer.js](https://albert-gonzalez.github.io/easytimer.js/)
+
+## Работа с датами
+- [Day.js](https://github.com/iamkun/dayjs)
+- [Moment.js](http://momentjs.com/)
+
+## Форматирование
+- [wNumb.js](https://refreshless.com/wnumb/)
+
+## Плееры
+- [howler.js](https://howlerjs.com/)
+- [Plyr](https://plyr.io/)
+- [MediaElement.js](https://www.mediaelementjs.com/)
+- [PlayerJS](https://playerjs.com/)
+- [Video.js](https://videojs.com/getting-started/)
+
+## Определение браузера
+- [Bowser](https://github.com/lancedikson/bowser)
+- [mobile-detect.js](https://github.com/hgoebl/mobile-detect.js)

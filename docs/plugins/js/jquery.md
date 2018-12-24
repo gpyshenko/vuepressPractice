@@ -21,6 +21,9 @@ title: Библиотеки на jQuery
 ## Паралакс при наведении
 - [tilt.js](http://gijsroge.github.io/tilt.js/)
 
+## Скролл
+- [Waypoints](http://imakewebthings.com/waypoints/)
+
 ## Календари
 - [PIGNOSE Calendar](https://www.pigno.se/barn/PIGNOSE-Calendar/)
 
@@ -48,3 +51,6 @@ title: Библиотеки на jQuery
 
 ## Autocomplete
 - [Ajax Autocomplete for jQuery](https://www.devbridge.com/sourcery/components/jquery-autocomplete/)
+
+## Таймеры
+- [FlipClock.js](http://flipclockjs.com/)

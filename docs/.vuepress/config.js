@@ -36,8 +36,10 @@ module.exports = {
                 title: 'Инструменты', 
                 collapsable: false,
                 children: [
+                    '/tools/console/',
                     '/tools/npm/',
-                    '/tools/redactors/'
+                    '/tools/redactors/',
+                    '/tools/git/'
                 ]
             },
             {
