@@ -21,7 +21,15 @@ module.exports = {
                 children: [
                     '/guide/metatags',
                     '/guide/html',
+                    '/guide/css',
                     '/guide/bugs'
+                ]
+            },
+            {
+                title: 'Плагины',
+                children: [
+                    '/plugins/js/vanilla',
+                    '/plugins/js/jquery'
                 ]
             },
             {
