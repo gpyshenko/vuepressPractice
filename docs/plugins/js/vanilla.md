@@ -22,7 +22,7 @@ title: Библиотеки на чистом JS
 - [Jump.js](http://callmecavs.com/jump.js/)
 - [smoothscroll](http://iamdustan.com/smoothscroll/) - полифил
 
-## Слайдеры
+## Карусели
 - [Glider.js](https://nickpiscitelli.github.io/Glider.js/)
 - [tiny-slider](http://ganlanyuan.github.io/tiny-slider/demo/)
 - [Glide](https://glidejs.com/)
@@ -32,7 +32,7 @@ title: Библиотеки на чистом JS
 - [Flickity](https://flickity.metafizzy.co/)
 - [swiper](http://idangero.us/swiper/#.WcGIHaASzqD) - очень тяжелый плагин
 
-## Range слайдеры
+## Слайдеры
 - [nouislider](https://refreshless.com/nouislider/)
 
 ## Галлереи

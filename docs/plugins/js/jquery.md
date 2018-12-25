@@ -9,7 +9,7 @@ title: Библиотеки на jQuery
 - [custom-scroll.js](http://standy.github.io/custom-scroll/)
 - [nanoScroller.js](https://jamesflorentino.github.io/nanoScrollerJS/)
 
-## Слайдеры
+## Карусели
 - [slick](https://github.com/kenwheeler/slick)
 - [sly](http://darsa.in/sly/)
 
