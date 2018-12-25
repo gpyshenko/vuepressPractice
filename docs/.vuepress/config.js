@@ -22,6 +22,7 @@ module.exports = {
                     '/guide/metatags',
                     '/guide/html',
                     '/guide/css',
+                    '/guide/email',
                     '/guide/bugs'
                 ]
             },
