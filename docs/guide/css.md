@@ -11,3 +11,8 @@ title: CSS
 - [Picture — новый элемент, которого нет](https://habr.com/post/237991/)
 - [Что поправить в верстке перед выпуском в продакшн?](https://habr.com/post/319664/)
 - [CSS Grid — швейцарский армейский нож для макетов сайтов и приложений](https://habr.com/company/poiskvps/blog/423709/)
+- [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148/)
+
+#### Печать
+- [CSS печатной версии страницы](https://habr.com/post/160997/)
+- [How to Create Printer-friendly Pages with CSS](https://www.sitepoint.com/css-printer-friendly-pages/)

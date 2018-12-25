@@ -18,6 +18,7 @@ title: Библиотеки на чистом JS
 - [zenscroll](https://zengabor.github.io/zenscroll/)
 - [MoveTo](https://hsnaydd.github.io/moveTo/demo/)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
+- [Elevator.js](http://tholman.com/elevator.js/)
 - [Jump.js](http://callmecavs.com/jump.js/)
 - [smoothscroll](http://iamdustan.com/smoothscroll/) - полифил
 
