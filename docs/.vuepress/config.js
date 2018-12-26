@@ -1,11 +1,11 @@
 module.exports = {
     title: 'Документация',
-    description: "A demo documentation using VuePress",
+    description: "Коллекция знаний по разработке сайтов",
     themeConfig: {
         nav: [
-            { text: 'COUNTER', link: '/counter/' },
-            { text: 'GUIDE', link: '/guide/' },
-            { text: 'GULP', link: '/gulp/' },
+            { text: 'Плагины', link: '/plugins/' },
+            { text: 'Знания', link: '/guide/' },
+            { text: 'Gulp', link: '/gulp/' },
         ],
         sidebar: [
             {
@@ -29,6 +29,7 @@ module.exports = {
             {
                 title: 'Плагины',
                 children: [
+                    '/plugins/css/',
                     '/plugins/js/vanilla',
                     '/plugins/js/jquery'
                 ]

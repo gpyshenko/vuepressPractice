@@ -57,6 +57,8 @@ title: Библиотеки на чистом JS
 ## Скролл
 - [Waypoints](http://imakewebthings.com/waypoints/)
 - [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+- [AOS](https://michalsnik.github.io/aos/)
+- [Delighters.JS](https://q42.github.io/delighters/)
 
 ## Календари
 - [flatpickr](https://github.com/flatpickr/flatpickr)
@@ -107,6 +109,9 @@ title: Библиотеки на чистом JS
 ## Работа с датами
 - [Day.js](https://github.com/iamkun/dayjs)
 - [Moment.js](http://momentjs.com/)
+
+## Копирование текста
+- [clipboard.js](https://clipboardjs.com/)
 
 ## Форматирование
 - [wNumb.js](https://refreshless.com/wnumb/)

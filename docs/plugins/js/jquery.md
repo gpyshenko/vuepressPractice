@@ -54,3 +54,8 @@ title: Библиотеки на jQuery
 
 ## Таймеры
 - [FlipClock.js](http://flipclockjs.com/)
+
+## Сравнение изображени
+
+- [before-after.js](https://github.com/jotform/before-after.js)
+- [TwentyTwenty](https://zurb.com/playground/twentytwenty)

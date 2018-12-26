@@ -1,7 +1,7 @@
 ---
 home: true
-actionText: See Counter App
-actionLink: /counter/counter-app
+actionText: Подробнее
+actionLink: /guide/
 features:
 - title: Embedded Vue Counter
   details: A Vue counter developed using Vue is embedded in this doc, now thats the power of VuePress!
@@ -9,6 +9,5 @@ features:
   details: This entire doc was basically made with VuePress which parsed markdown files and corresponding assets using webpack.
 - title: Fun Docs made with VuePress
   details: This entire doc was basically made with VuePress which parsed markdown files and corresponding assets using webpack.
-footer: Developed using VuePress by William Imoh
+footer: Developed using VuePress by gpyshenko
 ---
-<my-header></my-header>
