@@ -109,6 +109,8 @@ title: Библиотеки на чистом JS
 ## Работа с датами
 - [Day.js](https://github.com/iamkun/dayjs)
 - [Moment.js](http://momentjs.com/)
+- [Luxon](https://moment.github.io/luxon/)
+    - [Luxon — новая библиотека для работы с датами от команды Moment.js](https://habr.com/post/433850/)
 
 ## Копирование текста
 - [clipboard.js](https://clipboardjs.com/)
