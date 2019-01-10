@@ -8,13 +8,13 @@ module.exports = {
             { text: 'Gulp', link: '/gulp/' },
         ],
         sidebar: [
-            {
-                title: 'Counter',
-                collapsable: false,
-                children: [
-                    '/counter/counter-app'
-                ]
-            },
+            // {
+            //     title: 'Counter',
+            //     collapsable: false,
+            //     children: [
+            //         '/counter/counter-app'
+            //     ]
+            // },
             {
                 title: 'Знания',
                 collapsable: false, 
