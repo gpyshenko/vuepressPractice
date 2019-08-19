@@ -73,3 +73,8 @@ git push
 ```
 
 [https://monsterlessons.com/project/lessons/zalivaem-git-repozitorij-na-githab](https://monsterlessons.com/project/lessons/zalivaem-git-repozitorij-na-githab)
+
+## Статьи
+
+- [10 Git-команд, которые стоит знать разработчику](https://m.habr.com/ru/company/skillbox/blog/442260/)
+- [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://m.habr.com/ru/company/yandex/blog/431432/)

@@ -38,6 +38,7 @@ module.exports = {
                 title: 'Инструменты', 
                 collapsable: false,
                 children: [
+                    '/tools/browsers/',
                     '/tools/console/',
                     '/tools/npm/',
                     '/tools/redactors/',
