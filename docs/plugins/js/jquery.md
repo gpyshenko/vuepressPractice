@@ -8,6 +8,7 @@ title: Библиотеки на jQuery
 - [malihu-custom-scrollbar-plugin](http://manos.malihu.gr/jquery-custom-content-scroller/)
 - [custom-scroll.js](http://standy.github.io/custom-scroll/)
 - [nanoScroller.js](https://jamesflorentino.github.io/nanoScrollerJS/)
+- [tinyscrollbar](http://baijs.com/tinyscrollbar/)
 
 ## Карусели
 - [slick](https://github.com/kenwheeler/slick)

@@ -12,6 +12,7 @@ title: Библиотеки на чистом JS
 - [MiniBar](https://github.com/Mobius1/MiniBar)
 - [baron](https://github.com/Diokuz/baron)
 - [scrolly](https://annexare.com/js/scrolly/)
+- [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/#!overview)
 
 ## Скролл до блока
 - [sweet-scroll](https://tsuyoshiwada.github.io/sweet-scroll/)
