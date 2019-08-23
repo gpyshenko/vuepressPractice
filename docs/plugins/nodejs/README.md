@@ -8,3 +8,4 @@ title: Библиотеки для NodeJS
 
 ### Архивация
 - [archiver](https://github.com/archiverjs/node-archiver) 
+- [decompress](https://github.com/kevva/decompress) 
