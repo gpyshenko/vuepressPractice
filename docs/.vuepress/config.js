@@ -32,7 +32,7 @@ module.exports = {
                     '/plugins/css/',
                     '/plugins/js/vanilla',
                     '/plugins/js/jquery',
-                    '/plugins/js/nodejs'
+                    '/plugins/nodejs/' 
                 ]
             },
             {
