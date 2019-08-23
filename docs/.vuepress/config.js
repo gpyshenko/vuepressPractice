@@ -31,7 +31,8 @@ module.exports = {
                 children: [
                     '/plugins/css/',
                     '/plugins/js/vanilla',
-                    '/plugins/js/jquery'
+                    '/plugins/js/jquery',
+                    '/plugins/js/nodejs'
                 ]
             },
             {
