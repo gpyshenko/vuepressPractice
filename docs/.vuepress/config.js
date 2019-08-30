@@ -32,6 +32,7 @@ module.exports = {
                     '/plugins/css/',
                     '/plugins/js/vanilla',
                     '/plugins/js/jquery',
+                    '/plugins/js/vue',
                     '/plugins/nodejs/' 
                 ]
             },
