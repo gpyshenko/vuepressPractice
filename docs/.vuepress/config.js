@@ -63,6 +63,13 @@ module.exports = {
                 children: [
                     '/packages/npm/' 
                 ]
+            },
+            {
+                title: 'Полезности',
+                collapsable: false,
+                children: [
+                    '/usefull/engines'
+                ]
             }
         ]
     }
