@@ -78,3 +78,4 @@ git push
 
 - [10 Git-команд, которые стоит знать разработчику](https://m.habr.com/ru/company/skillbox/blog/442260/)
 - [Как генерировать осмысленные коммиты. Применяем стандарт Conventional Commits](https://m.habr.com/ru/company/yandex/blog/431432/)
+- [Create a new branch with git and manage branches](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)

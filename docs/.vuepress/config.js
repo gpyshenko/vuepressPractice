@@ -33,6 +33,7 @@ module.exports = {
                     '/plugins/js/vanilla',
                     '/plugins/js/jquery',
                     '/plugins/js/vue',
+                    '/plugins/js/svelte',
                     '/plugins/nodejs/' 
                 ]
             },
@@ -44,6 +45,7 @@ module.exports = {
                     '/tools/console/',
                     '/tools/npm/',
                     '/tools/redactors/',
+                    '/tools/bundlers/', 
                     '/tools/git/'
                 ]
             },
