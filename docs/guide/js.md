@@ -5,6 +5,8 @@ title: JS
 # JS
 
 ## Статьи
+- [Tips on naming boolean variables - Cleaner Code](https://michaelzanggl.com/articles/tips-on-naming-boolean-variables/)
+- [Документация по читабельности кода](https://howreadable.com/experiment/#findings)
 
 #### Стили
 
@@ -13,3 +15,4 @@ title: JS
 #### API
 
 - [Введение в API MutationObserver из JavaScript](http://css-live.ru/articles/vvedenie-v-api-mutationobserver-iz-javascript.html)
+- [Мониторинг всей памяти, используемой веб-страницей: performance.measureMemory()](https://habr.com/ru/company/ruvds/blog/497986/)
