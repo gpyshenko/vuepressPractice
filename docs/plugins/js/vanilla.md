@@ -4,6 +4,12 @@ title: Библиотеки на чистом JS
 
 # Библиотеки на чистом JS
 
+## Алерты
+- [Notyf](https://carlosroso.com/notyf/)
+
+## Dark/Light modes
+- [DarkmodeJS](https://nickdeny.github.io/darkmode-js/)
+
 ## Скроллбары
 - [smooth-scrollbar](https://idiotwu.github.io/smooth-scrollbar/)
 - [simplebar](http://grsmto.github.io/simplebar/)

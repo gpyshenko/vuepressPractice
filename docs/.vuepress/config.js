@@ -27,6 +27,14 @@ module.exports = {
                 ]
             },
             {
+                title: 'Полезности',
+                collapsable: false,
+                children: [
+                    '/usefull/services',
+                    '/usefull/engines'
+                ]
+            },
+            {
                 title: 'Плагины',
                 children: [
                     '/plugins/css/',
@@ -64,13 +72,6 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/packages/npm/' 
-                ]
-            },
-            {
-                title: 'Полезности',
-                collapsable: false,
-                children: [
-                    '/usefull/engines'
                 ]
             }
         ]
