@@ -15,4 +15,5 @@ title: JS
 #### API
 
 - [Введение в API MutationObserver из JavaScript](http://css-live.ru/articles/vvedenie-v-api-mutationobserver-iz-javascript.html)
+- [Считаем время в JavaScript](https://forweb.dev/blog/js-timing)
 - [Мониторинг всей памяти, используемой веб-страницей: performance.measureMemory()](https://habr.com/ru/company/ruvds/blog/497986/)

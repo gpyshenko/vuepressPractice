@@ -62,6 +62,7 @@ title: Библиотеки на чистом JS
 - [Delighters.JS](https://q42.github.io/delighters/)
 
 ## Календари
+- [aeon](https://github.com/lamplightdev/aeon#examples)
 - [flatpickr](https://github.com/flatpickr/flatpickr)
 - [Pikaday](https://github.com/Pikaday/Pikaday)
 - [fullcalendar](https://fullcalendar.io/)
@@ -75,6 +76,9 @@ title: Библиотеки на чистом JS
 ## Ajax
 - [axios](https://github.com/axios/axios)
 - [ky](https://github.com/sindresorhus/ky) - Fetch API
+
+## Изображения
+- [10 JavaScript Image Manipulation Libraries](https://blog.bitsrc.io/image-manipulation-libraries-for-javascript-187fde1ad5af)
 
 ## Цвет
 - [pickr](https://simonwep.github.io/pickr/)
@@ -129,3 +133,7 @@ title: Библиотеки на чистом JS
 ## Определение браузера
 - [Bowser](https://github.com/lancedikson/bowser)
 - [mobile-detect.js](https://github.com/hgoebl/mobile-detect.js)
+
+## Остальное
+- [Selecto.js](https://github.com/daybrush/selecto) - is a component that allows you to select elements in the drag area using the mouse or touch.
+- [cupertino-pane](https://github.com/roman-rr/cupertino-pane)
